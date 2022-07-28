@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/play-terminal/static/css/main.49bd4aa9.css",
-    "main.js": "/play-terminal/static/js/main.a5596db5.js",
-    "index.html": "/play-terminal/index.html",
-    "main.49bd4aa9.css.map": "/play-terminal/static/css/main.49bd4aa9.css.map",
-    "main.a5596db5.js.map": "/play-terminal/static/js/main.a5596db5.js.map"
+    "main.css": "/static/css/main.49bd4aa9.css",
+    "main.js": "/static/js/main.a5596db5.js",
+    "index.html": "/index.html",
+    "main.49bd4aa9.css.map": "/static/css/main.49bd4aa9.css.map",
+    "main.a5596db5.js.map": "/static/js/main.a5596db5.js.map"
   },
   "entrypoints": [
     "static/css/main.49bd4aa9.css",
